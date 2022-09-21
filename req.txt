@@ -1,0 +1,6 @@
+pandas==1.4.3
+python_dotenv==0.20.0
+selenium==4.3.0
+webdriver_manager==3.8.2
+pymongo
+python-dotenv
